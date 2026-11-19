@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Ali Khan",
+        "email": "ali.khan@example.com",
+        "role": "Developer"
+    },
+    {
+        "id": 2,
+        "name": "Sara Ahmed",
+        "email": "sara.ahmed@example.com",
+        "role": "Designer"
+    },
+    {
+        "id": 3,
+        "name": "mamoo",
+        "email": "mamoo",
+        "role": "mamoo"
+    },
+    {
+        "id": 4,
+        "name": "Ayesha Malik",
+        "email": "ayesha.malik@example.com",
+        "role": "QA Engineer"
+    },
+    {
+        "id": 5,
+        "name": "Bilal Raza",
+        "email": "bilal.raza@example.com",
+        "role": "Analyst"
+    },
+    {
+        "id": 6,
+        "name": "Zainab Fatima",
+        "email": "zainab.fatima@example.com",
+        "role": "HR"
+    },
+    {
+        "id": 7,
+        "name": "Hamza Sheikh",
+        "email": "hamza.sheikh@example.com",
+        "role": "DevOps"
+    },
+    {
+        "id": 9,
+        "name": "Omer Farooq",
+        "email": "omer.farooq@example.com",
+        "role": "Support"
+    },
+    {
+        "id": 10,
+        "name": "10",
+        "email": "moin",
+        "role": "moin"
+    },
+    {
+        "id": 11,
+        "name": "check",
+        "email": "check",
+        "role": "check"
+    }
+]
